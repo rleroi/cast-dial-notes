@@ -233,3 +233,5 @@ appears twice; which provider handles a cast is visible in logcat (`CastMediaRou
 
 Corrections and additions are welcome as issues or pull requests; these details change with every YouTube and Play services release.
 No decompiled code is reproduced here, only observed behaviour.
+
+See also the [microG gap map](https://rleroi.github.io/microg-gap-map/): which other Play services features microG still lacks.
