@@ -1,0 +1,10 @@
+[project]
+name = "cast-sniffer"
+version = "0.1.0"
+description = "CASTV2 discovery, watcher, reference YouTube sender, TLS proxy and deviceauth probe"
+requires-python = ">=3.10"
+dependencies = [
+    "protobuf>=4",
+    "pychromecast>=13",
+    "zeroconf>=0.130",
+]
